@@ -1,5 +1,4 @@
 ## Información
-___
 
 - Nombre: Pedro Miteff Canal
 - Legajo; 222.527-0
@@ -19,4 +18,4 @@ ___
 
 ## Imagen
 
-!(https://postimg.cc/mzymv9K5)
+
