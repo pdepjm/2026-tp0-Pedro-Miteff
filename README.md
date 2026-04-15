@@ -1,11 +1,11 @@
-## Información
+## 😴 Información
 
 - Nombre: Pedro Miteff Canal
 - Legajo; 222.527-0
 
 ___
 
-## Sobre mí
+## 🙋🏼‍♂️ Sobre mí
 
 - Juego al basquet hace 16 años en el Club Social y Deportivo Pinocho de Villa Urquiza
 - Este año arranqué a ser profe de las categorías de los chicos del club
@@ -16,6 +16,6 @@ ___
 
 ___
 
-## Imagen
+## 🌅 Imagen
 
-!(Pinocho.png)
+![Club Pinocho - Escudo](Pinocho.png)
